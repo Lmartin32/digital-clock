@@ -1,6 +1,7 @@
 
 body {
     /*add background color using the 'background-color' CSS property*/
+    background-color: #8A660B ; 
 }
 
 #clock {
@@ -14,4 +15,5 @@ body {
     text-align: center;
     font-size: 100px;
     /*add color using the 'color' property*/
+    color: #D1B46D;
 }
